@@ -9,7 +9,7 @@ Using Jupyter Notebook, below is a summary of the steps to analyze the dataset:
 ### 1. Reading and Storing the dataset into a Dataframe
 
 ### 2. Doing a statistical analysis of the dataset.
-(Images/Statistics.JPG)
+![Statistics](Images/Statistics.JPG)
 
 ### 3. Player Count
 Finding a unique count of Players as some players had more than 1 purchase.
