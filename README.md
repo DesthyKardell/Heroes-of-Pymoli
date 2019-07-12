@@ -4,32 +4,28 @@
 
 In this project, I am analyzing data to communicate useful insights about a fantasy games called Heroes of Pymoli. The dataset contains various purchasing data, such as the age and gender of buyers, among others. It can be accessed at [purchase_data.csv](Resources/purchase_data.csv). 
 
-Your final report should include each of the following:
+Using Jupyter Notebook, below is a summary of the steps to analyze the dataset:
 
-### Player Count
+### 1. Reading and Storing the dataset into a Dataframe
 
-* Total Number of Players
+### 2. Doing a statistical analysis of the dataset.
+(Images/Statistics.JPG)
 
-### Purchasing Analysis (Total)
+### 3. Player Count
+Finding a unique count of Players as some players had more than 1 purchase.
+(Images/Player_Count.JPG)
 
-* Number of Unique Items
-* Average Purchase Price
-* Total Number of Purchases
-* Total Revenue
+### Overall Purchasing Analysis
+Doing an overall purchasing Analysis
+(Images/Purchasing_Analysis.JPG)
 
 ### Gender Demographics
+Finding Count and Percentage of Players by Gender. 
+(Images/Gender_Demo.JPG)
 
-* Percentage and Count of Male Players
-* Percentage and Count of Female Players
-* Percentage and Count of Other / Non-Disclosed
-
-### Purchasing Analysis (Gender)
-
-* The below each broken by gender
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-  * Average Purchase Total per Person by Gender
+### Purchasing Analysis by Gender
+Doing an overall purchasing Analysis by Gender
+(Images/Purchasing_Analysis_Gender.JPG)
 
 ### Age Demographics
 
