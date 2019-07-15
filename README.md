@@ -19,7 +19,7 @@ In this project, I am analyzing data to communicate useful insights about a fant
   
   ![Player_Count](Images/Player_Count.JPG)
 
-  4. **Overall Purchasing Analysis:** Doing an overall purchasing Analysis:
+  4. **Overall Purchasing Analysis:** Doing an overall purchasing Analysis
   
   ![Purchasing_Analysis](Images/Purchasing_Analysis.JPG)
 
