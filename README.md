@@ -16,37 +16,37 @@ The purpose of this step is to study the dataset with quick statistics such as: 
 
 #### 3. Player Count
 Finding a unique count of Players as some players had more than 1 purchase.
-(Images/Player_Count.JPG)
+![Player_Count](Images/Player_Count.JPG)
 
 #### 4. Overall Purchasing Analysis
 Doing an overall purchasing Analysis:
-(Images/Purchasing_Analysis.JPG)
+![Purchasing_Analysis](Images/Purchasing_Analysis.JPG)
 
 #### 5. Gender Demographics
 Finding Count and Percentage of Players by Gender: 
-(Images/Gender_Demo.JPG)
+![Gender_Demo](Images/Gender_Demo.JPG)
 
 #### 6. Purchasing Analysis by Gender
 Doing an overall purchasing Analysis by Gender
-(Images/Purchasing_Analysis_Gender.JPG)
+![Purchasing_Analysis_Gender](Images/Purchasing_Analysis_Gender.JPG)
 
 #### 7. Age Demographics
 After establishing bins for the ages of playes, I came up with the below output:
-(Images/Age_Demographics.JPG)
+![Age_Demo](Images/Age_Demographics.JPG)
 
 #### 8. Purchasing Analysis by Age Group
 Leveraging Bins created, I came up with the following outputs
-(Images/Purchasing_Analysis_Age.JPG)
+![Purchasing_Analysis_Age](Images/Purchasing_Analysis_Age.JPG)
 
 #### 9. Top Spenders
 Identifying the the top 5 spenders and sorting in descending order:
-(Images/Top_Spenders.JPG)
+![Top_Spenders](Images/Top_Spenders.JPG)
 
 #### 10. Most Popular Items
 Identifying the 5 most popular items by purchase count:
-(Images/Popular_Items.JPG)
+![Popular_Items](Images/Popular_Items.JPG)
 
 #### 11. Most Profitable Items
 Identifying the 5 most profitable items by total purchase value:
-(Images/Profitable_Items.JPG)
+![Profitable_Items](Images/Profitable_Items.JPG)
 
