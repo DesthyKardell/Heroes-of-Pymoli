@@ -4,17 +4,18 @@
 
 In this project, I am analyzing data to communicate useful insights about a fantasy games called Heroes of Pymoli. The dataset contains various purchasing data, such as the age and gender of buyers, among others. It can be accessed at [purchase_data.csv](Resources/purchase_data.csv). 
 
-Technologies Used: Pandas, Numpy
+### Technologies Used
+Pandas, Numpy
 
-Summary of the steps and relevant outputs in tabular format:
+### Summary of Steps and relevant Outputs
 
-#### 1. Reading and Storing the dataset into a Dataframe
+  ##### 1. Reading and Storing the dataset into a Dataframe
 
-#### 2. Doing a statistical analysis of the dataset.
-The purpose of this step is to study the dataset with quick statistics such as: Mean, Count of records, among others.
-![Statistics](Images/Statistics.JPG)
+  ##### 2. Doing a statistical analysis of the dataset.
+  The purpose of this step is to study the dataset with quick statistics such as: Mean, Count of records, among others.
+  ![Statistics](Images/Statistics.JPG)
 
-#### 3. Player Count
+  ##### 3. Player Count
 Finding a unique count of Players as some players had more than 1 purchase.
 ![Player_Count](Images/Player_Count.JPG)
 
