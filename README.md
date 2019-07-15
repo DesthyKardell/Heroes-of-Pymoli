@@ -12,7 +12,7 @@ In this project, I am analyzing data to communicate useful insights about a fant
   1. **Reading and Storing the dataset into a Dataframe**
 
   2. **Doing a statistical analysis of the dataset**
-  *The purpose of this step is to study the dataset with quick statistics such as: Mean, Count of records, among others*.
+  The purpose of this step is to study the dataset with quick statistics such as: Mean, Count of records, among others.
   ![Statistics](Images/Statistics.JPG)
 
   ##### 3. Player Count
