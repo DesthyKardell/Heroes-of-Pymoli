@@ -20,26 +20,34 @@ In this project, I am analyzing data to communicate useful insights about a fant
   ![Player_Count](Images/Player_Count.JPG)
 
   4. **Overall Purchasing Analysis:** Doing an overall purchasing Analysis:
+  
   ![Purchasing_Analysis](Images/Purchasing_Analysis.JPG)
 
   5. **Gender Demographics:** Finding Count and Percentage of Players by Gender 
+  
   ![Gender_Demo](Images/Gender_Demo.JPG)
 
   6. **Purchasing Analysis by Gender:** Doing an overall purchasing Analysis by Gender
+  
   ![Purchasing_Analysis_Gender](Images/Purchasing_Analysis_Gender.JPG)
 
-  7. **Age Demographics:** After establishing bins for the ages of playes, I came up with the below output:
+  7. **Age Demographics:** After establishing bins for the ages of playes, I came up with the below output
+  
   ![Age_Demo](Images/Age_Demographics.JPG)
 
   8. **Purchasing Analysis by Age Group:** Leveraging Bins created, I came up with the following outputs
+  
   ![Purchasing_Analysis_Age](Images/Purchasing_Analysis_Age.JPG)
 
-  9. **Top Spenders:** Identifying the the top 5 spenders and sorting in descending order:
+  9. **Top Spenders:** Identifying the the top 5 spenders and sorting in descending order
+  
   ![Top_Spenders](Images/Top_Spenders.JPG)
 
-  10. **Most Popular Items:** Identifying the 5 most popular items by purchase count:
+  10. **Most Popular Items:** Identifying the 5 most popular items by purchase count
+  
   ![Popular_Items](Images/Popular_Items.JPG)
 
-  11. **Most Profitable Items:** Identifying the 5 most profitable items by total purchase value:
+  11. **Most Profitable Items:** Identifying the 5 most profitable items by total purchase value
+  
   ![Profitable_Items](Images/Profitable_Items.JPG)
 
