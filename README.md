@@ -6,9 +6,9 @@ In this project, I am analyzing data to communicate useful insights about a fant
 
 Using Jupyter Notebook, below is a summary of the steps to analyze the dataset:
 
-## 1. Reading and Storing the dataset into a Dataframe
+# 1. Reading and Storing the dataset into a Dataframe
 
-## 2. Doing a statistical analysis of the dataset.
+# 2. Doing a statistical analysis of the dataset.
 ![Statistics](Images/Statistics.JPG)
 
 ## 3. Player Count
