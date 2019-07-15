@@ -11,8 +11,7 @@ In this project, I am analyzing data to communicate useful insights about a fant
 ### Summary of Steps and relevant Outputs
   1. **Reading and Storing the dataset into a Dataframe**
 
-  2. **Doing a statistical analysis of the dataset:**
-  The purpose of this step is to study the dataset with quick statistics such as: Mean, Count of records, among others
+  2. **Doing a statistical analysis of the dataset:** The purpose of this step is to study the dataset with quick statistics
   
   ![Statistics](Images/Statistics.JPG)
 
