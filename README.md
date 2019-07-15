@@ -9,7 +9,7 @@ In this project, I am analyzing data to communicate useful insights about a fant
    * Numpy
 
 ### Summary of Steps and relevant Outputs
-..1. Reading and Storing the dataset into a Dataframe
+  1. Reading and Storing the dataset into a Dataframe
 
 ##### 1. Reading and Storing the dataset into a Dataframe
 
