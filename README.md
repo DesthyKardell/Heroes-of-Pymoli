@@ -52,4 +52,5 @@ In this project, I am analyzing data to communicate useful insights about a fant
   ![Profitable_Items](Images/Profitable_Items.JPG)
 
 ## Conclusions
-Based on the analysis, I have identified 3 Observable trends ![Observable_Trends](3 Observable Trends.docx)
+Based on the analysis, I have identified 3 Observable trends 
+![Observable_Trends](3 Observable Trends.docx)
