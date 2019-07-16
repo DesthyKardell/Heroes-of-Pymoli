@@ -53,6 +53,3 @@ In this project, I am analyzing data to communicate useful insights about a fant
 
 ## Conclusions
 Based on the analysis, I see 3 main insights [Observable_Trends.docx](Observable_Trends.docx).
-
-
-![Insights](Observable_Trends.docx)
