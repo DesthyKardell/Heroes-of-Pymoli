@@ -2,9 +2,10 @@
 
 ![Fantasy](Images/Fantasy.jpg)
 
-In this project, I am analyzing data to communicate useful insights about a fantasy games called Heroes of Pymoli. The dataset contains various purchasing data, such as the age and gender of buyers, among others. It can be accessed at [purchase_data.csv](Resources/purchase_data.csv). 
+In this project, I am analyzing data to communicate useful insights about a fantasy games called Heroes of Pymoli. The dataset contains various purchasing data, such as the age and gender of buyers, among others. It can be accessed at [purchase_data.csv](Resources/purchase_data.csv).
 
 ### Technologies Used
+
    * Pandas
    * Numpy
 
