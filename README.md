@@ -8,7 +8,7 @@ In this project, I am analyzing data to communicate useful insights about a fant
    * Pandas
    * Numpy
 
-### Summary of Steps and relevant Outputs
+## Summary of Steps and relevant Outputs
   1. **Reading and Storing the dataset into a Dataframe**
 
   2. **Doing a statistical analysis of the dataset:** The purpose of this step is to study the dataset with quick statistics
@@ -51,3 +51,5 @@ In this project, I am analyzing data to communicate useful insights about a fant
   
   ![Profitable_Items](Images/Profitable_Items.JPG)
 
+## Conclusions
+Based on the analysis, I have identified 3 Observable trends ![Observable_Trends](3 Observable Trends.docx)
