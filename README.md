@@ -52,4 +52,4 @@ In this project, I am analyzing data to communicate useful insights about a fant
   ![Profitable_Items](Images/Profitable_Items.jpg)
 
 ## Conclusions
-Based on the analysis, I see 3 main insights [Observable_Trends.docx](Observable_Trends.docx).
+Based on the analysis, I see 3 main insights, which are listed at: [Observable_Trends.docx](Observable_Trends.docx).
