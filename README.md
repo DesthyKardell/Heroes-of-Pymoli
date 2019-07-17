@@ -13,11 +13,11 @@ In this project, I am analyzing data to communicate useful insights about a fant
 
   2. **Doing a statistical analysis of the dataset:** The purpose of this step is to study the dataset with quick statistics
   
-  ![Statistics](Images/Statistics.JPG)
+  ![Statistics](Images/Statistics.jpg)
 
   3. **Player Count:**  Finding a unique count of Players as some players had more than 1 purchase
   
-  ![Player_Count](Images/Player_Count.JPG)
+  ![Player_Count](Images/Player_Count.jpg)
 
   4. **Overall Purchasing Analysis:** Doing an overall purchasing Analysis
   
