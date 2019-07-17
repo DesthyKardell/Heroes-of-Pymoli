@@ -33,7 +33,7 @@ In this project, I am analyzing data to communicate useful insights about a fant
 
   7. **Age Demographics:** After establishing bins for the ages of playes, I came up with the below output
   
-  ![Age_Demo](Images/Age_Demographics.JPG)
+  ![Age_Demographics](Images/Age_Demographics.JPG)
 
   8. **Purchasing Analysis by Age Group:** Leveraging Bins created, I came up with the following outputs
   
